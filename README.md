@@ -5,8 +5,9 @@ Mama bros learn git and create a seperate branches with your names. after finish
 #
 #
 
+![olx home page](https://user-images.githubusercontent.com/83687589/177179810-f9bfb3a3-b97b-4850-ad5a-b676be812172.png)
 
-#[README.md](https://github.com/madhur1729/olx/files/9040442/README.md)
+
 
 
 
