@@ -1,5 +1,5 @@
 # olx
-Mama bros learn git and create a seperate branches with your names. after finishing your specific task we can merge it together.
+Trying to build a OLX Clone website specific for the IIT Guwahati campus janta so they can buy and sell their used stuff here.
 
 #
 #
